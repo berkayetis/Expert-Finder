@@ -1,0 +1,144 @@
+com/befb/ustam/MainActivity.java
+ com.befb.ustam.MainActivity
+ com.befb.ustam.MainActivity$1
+ com.befb.ustam.MainActivity$2
+ com.befb.ustam.MainActivity$3
+com/befb/ustam/UploadActivity.java
+ com.befb.ustam.UploadActivity
+ com.befb.ustam.UploadActivity$1
+ com.befb.ustam.UploadActivity$2
+ com.befb.ustam.UploadActivity$3
+ com.befb.ustam.UploadActivity$4
+ com.befb.ustam.UploadActivity$5
+ com.befb.ustam.UploadActivity$6
+com/befb/ustam/registerActivity.java
+ com.befb.ustam.registerActivity
+ com.befb.ustam.registerActivity$1
+ com.befb.ustam.registerActivity$2
+ com.befb.ustam.registerActivity$3
+ com.befb.ustam.registerActivity$4
+com/befb/ustam/Model/CityList.java
+ com.befb.ustam.Model.CityList
+com/befb/ustam/ui/home/HomeFragment.java
+ com.befb.ustam.ui.home.HomeFragment
+ com.befb.ustam.ui.home.HomeFragment$1
+ com.befb.ustam.ui.home.HomeFragment$2
+com/befb/ustam/BuildConfig.java
+ com.befb.ustam.BuildConfig
+com/befb/ustam/ui/main/PageViewModel.java
+ com.befb.ustam.ui.main.PageViewModel
+ com.befb.ustam.ui.main.PageViewModel$1
+com/befb/ustam/ui/ProfilePage/ProfileActivity.java
+ com.befb.ustam.ui.ProfilePage.ProfileActivity
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$1
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$10
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$11
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$12
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$13
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$14
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$15
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$2
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$3
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$4
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$5
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$6
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$6$1
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$6$1$1
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$7
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$8
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$8$1
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$8$1$1
+ com.befb.ustam.ui.ProfilePage.ProfileActivity$9
+com/befb/ustam/Comment.java
+ com.befb.ustam.Comment
+com/befb/ustam/ui/ProfilePage/ProfilePageViewModel.java
+ com.befb.ustam.ui.ProfilePage.ProfilePageViewModel
+com/befb/ustam/Post.java
+ com.befb.ustam.Post
+com/befb/ustam/ui/main/PlaceholderFragment.java
+ com.befb.ustam.ui.main.PlaceholderFragment
+ com.befb.ustam.ui.main.PlaceholderFragment$1
+com/befb/ustam/ui/notifications/NotificationsViewModel.java
+ com.befb.ustam.ui.notifications.NotificationsViewModel
+com/befb/ustam/databinding/ActivityLoginBinding.java
+ com.befb.ustam.databinding.ActivityLoginBinding
+com/befb/ustam/Model/CityDetail.java
+ com.befb.ustam.Model.CityDetail
+com/befb/ustam/ui/home/HomeViewModel.java
+ com.befb.ustam.ui.home.HomeViewModel
+com/befb/ustam/ui/ProfilePage/DashboardViewModel.java
+ com.befb.ustam.ui.ProfilePage.DashboardViewModel
+com/befb/ustam/LoginActivity.java
+ com.befb.ustam.LoginActivity
+ com.befb.ustam.LoginActivity$1
+com/befb/ustam/ui/ProfilePage/ProfilePageFragment.java
+ com.befb.ustam.ui.ProfilePage.ProfilePageFragment
+com/befb/ustam/TabbedActivity.java
+ com.befb.ustam.TabbedActivity
+ com.befb.ustam.TabbedActivity$1
+com/befb/ustam/databinding/RecyclerPortfolyoBinding.java
+ com.befb.ustam.databinding.RecyclerPortfolyoBinding
+com/befb/ustam/databinding/ActivityProfilePageBinding.java
+ com.befb.ustam.databinding.ActivityProfilePageBinding
+com/befb/ustam/databinding/RecyclerCommentRowBinding.java
+ com.befb.ustam.databinding.RecyclerCommentRowBinding
+com/befb/ustam/databinding/ListItemBinding.java
+ com.befb.ustam.databinding.ListItemBinding
+com/befb/ustam/databinding/ActivityProfileBinding.java
+ com.befb.ustam.databinding.ActivityProfileBinding
+com/befb/ustam/databinding/RecyclerRowBinding.java
+ com.befb.ustam.databinding.RecyclerRowBinding
+com/befb/ustam/databinding/FragmentNotificationsBinding.java
+ com.befb.ustam.databinding.FragmentNotificationsBinding
+com/befb/ustam/databinding/ActivityMainBinding.java
+ com.befb.ustam.databinding.ActivityMainBinding
+com/befb/ustam/ui/main/SectionsPagerAdapter.java
+ com.befb.ustam.ui.main.SectionsPagerAdapter
+com/befb/ustam/MainPageActivity.java
+ com.befb.ustam.MainPageActivity
+com/befb/ustam/databinding/ActivityRegisterBinding.java
+ com.befb.ustam.databinding.ActivityRegisterBinding
+com/befb/ustam/databinding/FragmentTabbedBinding.java
+ com.befb.ustam.databinding.FragmentTabbedBinding
+com/befb/ustam/databinding/FragmentDashboardBinding.java
+ com.befb.ustam.databinding.FragmentDashboardBinding
+com/befb/ustam/databinding/FragmentHomeBinding.java
+ com.befb.ustam.databinding.FragmentHomeBinding
+com/befb/ustam/ui/notifications/NotificationsFragment.java
+ com.befb.ustam.ui.notifications.NotificationsFragment
+ com.befb.ustam.ui.notifications.NotificationsFragment$1
+ com.befb.ustam.ui.notifications.NotificationsFragment$2
+ com.befb.ustam.ui.notifications.NotificationsFragment$3
+com/befb/ustam/databinding/FragmentCreateProfileBinding.java
+ com.befb.ustam.databinding.FragmentCreateProfileBinding
+com/befb/ustam/databinding/ActivityTabbedBinding.java
+ com.befb.ustam.databinding.ActivityTabbedBinding
+com/befb/ustam/databinding/ActivityMain2Binding.java
+ com.befb.ustam.databinding.ActivityMain2Binding
+com/befb/ustam/databinding/ActivityUploadBinding.java
+ com.befb.ustam.databinding.ActivityUploadBinding
+com/befb/ustam/ui/ProfilePage/DashboardFragment.java
+ com.befb.ustam.ui.ProfilePage.DashboardFragment
+ com.befb.ustam.ui.ProfilePage.DashboardFragment$1
+ com.befb.ustam.ui.ProfilePage.DashboardFragment$2
+ com.befb.ustam.ui.ProfilePage.DashboardFragment$3
+ com.befb.ustam.ui.ProfilePage.DashboardFragment$4
+ com.befb.ustam.ui.ProfilePage.DashboardFragment$5
+ com.befb.ustam.ui.ProfilePage.DashboardFragment$6
+com/befb/ustam/RecyclerCommentAdapter.java
+ com.befb.ustam.RecyclerCommentAdapter
+ com.befb.ustam.RecyclerCommentAdapter$PostHolder
+com/befb/ustam/ui/ProfilePage/ProfilePageActivity.java
+ com.befb.ustam.ui.ProfilePage.ProfilePageActivity
+ com.befb.ustam.ui.ProfilePage.ProfilePageActivity$1
+ com.befb.ustam.ui.ProfilePage.ProfilePageActivity$2
+ com.befb.ustam.ui.ProfilePage.ProfilePageActivity$3
+ com.befb.ustam.ui.ProfilePage.ProfilePageActivity$4
+ com.befb.ustam.ui.ProfilePage.ProfilePageActivity$5
+ com.befb.ustam.ui.ProfilePage.ProfilePageActivity$6
+ com.befb.ustam.ui.ProfilePage.ProfilePageActivity$7
+ com.befb.ustam.ui.ProfilePage.ProfilePageActivity$8
+com/befb/ustam/MainRecyclerAdapter.java
+ com.befb.ustam.MainRecyclerAdapter
+ com.befb.ustam.MainRecyclerAdapter$1
+ com.befb.ustam.MainRecyclerAdapter$PostHolder

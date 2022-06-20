@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tabbed.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\fragment_tabbed.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycler_portfolyo.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\recycler_portfolyo.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tabbed.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\activity_tabbed.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_upload.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile_page.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\activity_profile_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycler_row.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_create_profile.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\fragment_create_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycler_comment_row.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\recycler_comment_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\BERKAY\\AndroidStudioProjects\\Ustam\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    }
+]
